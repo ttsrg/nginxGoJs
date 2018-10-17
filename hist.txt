@@ -1,0 +1,609 @@
+    1  git
+    2  apt install git
+    3  pwd
+    4  fit
+    5  git
+    6  w
+    7  ps -aux
+    8  ps -aux | grep cat
+    9  ps -aux | grep main
+   10  w
+   11  top
+   12  cd /home/git
+   13  cd goapp
+   14  ls
+   15  go run main.go
+   16  cat /proc/cpuinfo 
+   17  dpkg -l
+   18  apt install php-fpm -s
+   19  apt install php-fpm 
+   20  dpkg -l | grep php
+   21  ls -la
+   22  cat index.nginx-debian.html 
+   23  cat index.html 
+   24  cat index.html | grep js
+   25  ls -la
+   26  touch test
+   27  ls -la
+   28  chmod g+w .
+   29  ls -la
+   30  chmod g+w .*
+   31  ls -la
+   32  chmod g+w app.js 
+   33  ls -la
+   34  chmod g+w -R *.*
+   35  ls -la
+   36  chmod g+w index.html 
+   37  ls -la
+   38  history 
+   39  df -h
+   40  cd ~
+   41  pwd
+   42  mkdir /home/git/
+   43  ls -la /home/git/
+   44  chown test /home/git/
+   45  ls -la /home/git/
+   46  chown -R test /home/git/
+   47  ls -la /home/git/
+   48  git
+   49  cd /home/git
+   50  git clone 
+   51  git clone https://github.com/vozerov/goapp-web.git
+   52  ls
+   53  git clone https://github.com/vozerov/goapp-web.git
+   54  git clone https://github.com/vozerov/goapp.git
+   55  ls
+   56  ls -la
+   57  chown test -R
+   58  chown test -R .
+   59  ls -la
+   60  cd goapp
+   61  ls -la
+   62  cd ..
+   63  go
+   64  apt install golang
+   65  netstat -plunt
+   66  ls
+   67  cd goapp
+   68  ls
+   69  ls -la
+   70  cat main
+   71  ls -la
+   72  chmod 644 *
+   73  ls -la
+   74  chown root
+   75  chown root *
+   76  nginx -- help
+   77  nginx -h
+   78  nginx -t
+   79  nginx -r
+   80  nginx reload
+   81  nginx -s reload
+   82  nginx -s 
+   83  nginx -s -h
+   84  nginx -s help
+   85  apt install python-letsencrypt-nginx -s
+   86  cd /home
+   87  wget https://dl.eff.org/certbot-auto
+   88  chmod a+x certbot-auto 
+   89  ./certbot-auto --nginx
+   90  reboot
+   91  netstat -plunt
+   92  apt install nginx
+   93  locate 
+   94  locate nginx
+   95  systemctl status nginx
+   96  netstat -plunt
+   97  cat /etc/nginx/
+   98  cd /etc/nginx/
+   99  ls
+  100  mc
+  101  omc
+  102  mc
+  103  netstat -plunt
+  104  mc
+  105  nano gorunsum.service
+  106  systemctl daemon-reload
+  107  systemctl start gorunapp
+  108  systemctl start gorunsum
+  109  systemctl status gorunsum
+  110  locate go
+  111  find / -name go
+  112  nano gorunsum.service 
+  113  history 
+  114  systemctl daemon-reload
+  115  systemctl start gorunapp
+  116  systemctl daemon-reload
+  117  systemctl start gorunapp
+  118  systemctl daemon-reload
+  119  systemctl start gorunapp
+  120  systemctl restart gorunapp
+  121  systemctl restart gorunsum
+  122  systemctl status gorunsum.service"
+  123  systemctl status gorunsum.service
+  124  journalctl -xe
+  125  cat gorunsum.service 
+  126  /usr/bin/go run  '/home/git/goapp/main.go'
+  127  journalctl 
+  128  reboot
+  129  netstat -plunt
+  130  cd /home
+  131  ls
+  132  cd git
+  133  ls
+  134  cd goapp
+  135  ls
+  136  nano main.go
+  137  go run main.go
+  138  apt update
+  139  apt list --upgradable
+  140  apt dist-upgrade 
+  141  nbgf ,tcn ghfrnbc
+  142  cat index.html 
+  143  reset
+  144  cat index.html 
+  145  cat app.js 
+  146  git branch
+  147  git pull
+  148  git status
+  149  git fetch
+  150  git remote add upstream git@github.com:vozerov/goapp.git
+  151  git fetch upstream -a
+  152  cd /
+  153  cd -
+  154  cd ..
+  155  ls
+  156  git remote add upstream https://github.com/vozerov/goapp.git
+  157  cd goapp
+  158  git remote add upstream https://github.com/vozerov/goapp.git
+  159  git fetch upstream -a
+  160  git branch 
+  161  git remote add upstream https://github.com/vozerov/goapp.git -f
+  162  git remote add upstream 
+  163  git remote 
+  164  git remote update 
+  165  git remote
+  166  git
+  167  git fetch upstream
+  168  git fetch upstream --help
+  169  fatal: Could not read from remote repository.
+  170  ssh-keygen -t rsa -b 4096 -C "tt_email@example.com"
+  171  exit
+  172  apt show php-fpm
+  173  systemctl status php-fpm
+  174  systemctl status php7.0-fpm
+  175  dpkg -l | grep php
+  176  systemctl nginx stop
+  177  systemctl stop nginx 
+  178  netstat -plunt
+  179  systemctl status gorunsum
+  180  systemctl restart gorunsum
+  181  systemctl status gorunsum
+  182  nano /etc/systemd/system/gorunsum.service 
+  183  systemctl restart gorunsum
+  184  systemctl daemon-reload
+  185  systemctl restart gorunsum
+  186  fg
+  187  systemctl status gorunsum
+  188  systemctl stop gorunsum
+  189  systemctl start gorunsum
+  190  systemctl start nginx
+  191  mc
+  192  exit
+  193  git clone 
+  194  git clone git@github.com:ttsrg/goapp.git
+  195  exit
+  196  git remote
+  197  git remote -v
+  198  cd ..
+  199  git clone https://github.com/ttsrg/arch-linux-info.git
+  200  ls
+  201  cd arch-linux-info/
+  202  git remote -v
+  203  cd ..
+  204  cd goapp-web/
+  205  git remote -v
+  206  git remove
+  207  git
+  208  cd ..
+  209  cd goapp
+  210  git remote -v
+  211  git rm
+  212  git rm -rf
+  213  git rm -rf *
+  214  cd ..
+  215  ls
+  216  git rm goapp
+  217  git rm goapp -rf
+  218  mc
+  219  exit
+  220  netstat -plunt
+  221  mc
+  222  nano index.html 
+  223  nano /etc/nginx/sites-available/default 
+  224  cp /etc/nginx/sites-available/default /home/oldfiles/defconfnginx
+  225  nano /etc/nginx/sites-available/default 
+  226  nginx -t
+  227  nano /etc/nginx/sites-available/default 
+  228  nginx -t
+  229  nano /etc/nginx/sites-available/default 
+  230  mcedit /etc/nginx/sites-available/default 
+  231  diff  /etc/nginx/sites-available/default /home/oldfiles/defconfnginx 
+  232  cp  /home/oldfiles/defconfnginx /etc/nginx/sites-available/default 
+  233  mcedit /etc/nginx/sites-available/default 
+  234  nginx -t
+  235  cp  /etc/nginx/sites-available/default /home/oldfiles/ngixconfwocomments
+  236  nano /etc/nginx/sites-available/default 
+  237  nginx -t
+  238  nginx -s reload
+  239  nano /etc/nginx/sites-available/default 
+  240  nginx -s reload
+  241  nano /etc/nginx/sites-available/default 
+  242  nginx -t
+  243  nginx -s reload
+  244  curl --help
+  245  apt install curl
+  246  curl --help
+  247  netstat -plunt
+  248  systemctl status gorunsum.service 
+  249  systemctl start  gorunsum.service 
+  250  netstat -plunt
+  251  tail -f /var/log/syslog
+  252  [6~
+  253  git status
+  254  ls -la
+  255  babo index.html 
+  256  nano index.html 
+  257  nano /etc/nginx/sites-available/default 
+  258  nginx -t
+  259  nginx -s reload
+  260  nano /etc/nginx/sites-available/default 
+  261  nginx -s reload
+  262  nano /etc/nginx/sites-available/default 
+  263  nginx -s reload
+  264  nano /etc/nginx/sites-available/default 
+  265  nano /etc/systemd/system/gorunsum.service 
+  266  nano /etc/nginx/sites-available/default 
+  267  nginx -s reload
+  268  nano /etc/nginx/sites-available/default 
+  269  nginx -s reload
+  270  systemctl daemon-re
+  271  systemctl daemon-reload 
+  272  systemctl restart gorunsum.service 
+  273  systemctl status  gorunsum.service 
+  274  less /etc/systemd/system/gorunsum.service 
+  275  nano  /etc/systemd/system/gorunsum.service 
+  276  systemctl restart gorunsum.service 
+  277  systemctl daemon-reload
+  278  systemctl restart gorunsum.service 
+  279  systemctl status gorunsum.service 
+  280  cat /var/www/html/app.js 
+  281  nano /var/www/html/app.js 
+  282  nginx -s reload
+  283  nano /var/www/html/app.js 
+  284  nginx -s reload
+  285  nano /var/www/html/app.js 
+  286  nginx -s reload
+  287  nano /etc/nginx/sites-available/default 
+  288  nginx -s reload
+  289  nano /etc/nginx/sites-available/default 
+  290  nginx -s reload
+  291  nano /etc/nginx/sites-available/default 
+  292  nginx -s reload
+  293  nano /etc/nginx/sites-available/default 
+  294  nginx -s reload
+  295  nano /etc/nginx/sites-available/default 
+  296  nginx -s reload
+  297  history 
+  298  nano  /etc/systemd/system/gorunsum.service
+  299  systemctl daemon-reload
+  300  systemctl restart gorunsum.service
+  301  systemctl status  gorunsum.service
+  302  journalctl -xfe
+  303  mc
+  304  ls -la
+  305  cd ~
+  306  pwd
+  307  cd /home/git
+  308  ls
+  309  cd goapp-web/
+  310  nginx -t
+  311  exit
+  312  systemctl restart nginx
+  313  exit
+  314  `
+  315  mkdir -p /srv/acme
+  316  tail -f /var/log/syslog
+  317  cat /etc/systemd/system/gorunsum.service 
+  318  ExecStart=/usr/bin/go run  '/home/git/goapp/main.go'  #&
+  319  systemctl stop gorunsum.service 
+  320  nano /etc/systemd/system/gorunsum.service 
+  321  cd /srv/goapp
+  322  ls
+  323  build main.go 
+  324  ssh --help
+  325  go
+  326  go build main.go
+  327  ls -la
+  328  nano /etc/systemd/system/gorunsum.service 
+  329  systemctl daemon-reload 
+  330  systemctl restart gorunsum.service 
+  331  systemctl status gorunsum.service 
+  332  netstat -plunt
+  333  apt install letscrypt
+  334  apt install letsecrypt
+  335  apt install letsencrypt
+  336  cd  /etc/nginx/sites-enabled/
+  337  ls
+  338  cat > ttserg_devops_srwx_net.html 
+  339  cat ttserg_devops_srwx_net.html 
+  340  rm ttserg_devops_srwx_net.html 
+  341  ls
+  342  ls -la
+  343  touch ttserg.devops.srwx.net.conf
+  344  nano ttserg.devops.srwx.net.conf 
+  345  mc
+  346  nano ttserg.devops.srwx.net.conf 
+  347  nginx -t
+  348  nginx -s reload
+  349  letsencrypt certonly --webroot -w /srv/acme -d ttserg.devops.srwx.net
+  350  letsencrypt certonly --webroot -w /srv/acme/ -d ttserg.devops.srwx.net
+  351  crontab -e
+  352  letsencrypt certonly --webroot -w /srv/acme/ -d ttserg.devops.srwx.net
+  353  letsencrypt plugins
+  354  letsencrypt renew
+  355  letsencrypt revoke
+  356  ,c
+  357  mc
+  358  letsencrypt certonly --webroot -w /srv/acme/ -d ttserg.devops.srwx.net
+  359  nano ttserg.devops.srwx.net.conf 
+  360  nginx -s reload
+  361  curl -D - -s -o /dev/null http://ttserg.devops/srwx.net
+  362  curl -D - -s -o /dev/null http://ttserg.devops.srwx.net
+  363  curl -D - -s -o /dev/null https://ttserg.devops.srwx.net
+  364  http://ttserg.devops.srwx.net
+  365  mc
+  366  curl -D - -s -o /dev/null https://ttserg.devops.srwx.net
+  367  curl -D - -s -o /dev/null http://ttserg.devops.srwx.net
+  368  cat ttserg.devops.srwx.net.conf 
+  369  mc
+  370  curl -D - -s -o /dev/null http://ttserg.devops.srwx.net
+  371  curl -D - -s -o /dev/null https://ttserg.devops.srwx.net
+  372  nginx -s reload
+  373  curl -D - -s -o /dev/null https://ttserg.devops.srwx.net
+  374  ls -la /opt
+  375  ls -la /srv
+  376  ls -la
+  377  ls
+  378  ln
+  379  ln -s /srv/nginx/ttserg.devops.srwx.net 
+  380  nginx -t
+  381  nginx -s reload
+  382  ls -la
+  383  mv ttserg.devops.srwx.net ttserg_devops_srwx_net.html
+  384  nginx -s reload
+  385  nginx -t
+  386  nginx -s reload
+  387  ls -la
+  388  ln -s /srv/nginx/ttserg_devops_srwx_net.html 
+  389  nginx -s reload
+  390  nano ttserg_devops_srwx_net.html 
+  391  nginx -s reload
+  392  nano index.html 
+  393  cat app.js 
+  394  dpkg -l | grep php
+  395  touch phpapidiffstart.sh
+  396  nano phpapidiffstart.sh 
+  397  locate fastcgi
+  398  locate php-fastcgi
+  399  netstat -plunt
+  400  cgi-fcgi -bind -connect 127.0.0.1:9000
+  401  apt install libfcgi0ldbl
+  402  cgi-fcgi -bind -connect 127.0.0.1:9000
+  403  cat /home/oldfiles/defconfnginx 
+  404  nano /srv/nginx/ttserg_devops_srwx_net.html 
+  405  nginx -t
+  406  nginx -t
+  407  nginx -s reload
+  408  netstat -plunt
+  409  systemctl restart php7.0-fpm.service 
+  410  netstat -plunt
+  411  cgi-fcgi -bind -connect 127.0.0.1:9000
+  412  systemctl restart php-fpm.service 
+  413  systemctl restart php7.0-fpm.service 
+  414  systemctl status  php7.0-fpm.service 
+  415  netstat -plunt
+  416  systemctl restart nginx 
+  417  netstat -plunt
+  418  nano /srv/nginx/ttserg_devops_srwx_net.html 
+  419  netstat -plunt
+  420  iptables -l
+  421  iptables -L
+  422  cat  /srv/nginx/ttserg_devops_srwx_net.html | grep incl
+  423  history 
+  424  nginx -s reload
+  425  netstat -plunt
+  426  nginx -t
+  427  cat /etc/php/7.0/fpm/pool.d/www.conf 
+  428  cat /etc/php/7.0/fpm/pool.d/www.conf  | grep -v "^;"
+  429  ps aux | grep php
+  430  cat /etc/nginx/nginx.conf
+  431  nano /srv/nginx/ttserg_devops_srwx_net.html 
+  432  nginx -s reload
+  433  nano /srv/nginx/ttserg_devops_srwx_net.html 
+  434  cat  /srv/nginx/ttserg_devops_srwx_net.html  | grep fast cgi
+  435  cat  /srv/nginx/ttserg_devops_srwx_net.html  | grep fastcgi
+  436  cat  /srv/nginx/ttserg_devops_srwx_net.html  | grep fastcgi -n
+  437  cat  /srv/nginx/ttserg_devops_srwx_net.html  | grep index.php -n
+  438  nano /srv/nginx/ttserg_devops_srwx_net.html 
+  439  nginx -s reload
+  440  nano test.php
+  441  ls -la
+  442  netstat -plunt
+  443  watch netstat -plunt
+  444  watch -n0.5 netstat -plunt
+  445  ls -la
+  446  nginx -s reload
+  447  cat /etc/nginx/sites-enabled/ttserg_devops_srwx_net.html | grep cgi
+  448  cat  /etc/php/7.0/fpm/pool.d/www.conf 
+  449  cat  /etc/php/7.0/fpm/pool.d/www.conf | grep listen
+  450  cat  /etc/php/7.0/fpm/pool.d/www.conf | grep _index
+  451  cat /srv/nginx/ttserg_devops_srwx_net.html 
+  452  history | grep lets
+  453  history | grep cert
+  454  crontab -l
+  455  crontab -e
+  456  nano /var/spool/cron/crontabs/certs
+  457  crontab -l
+  458  systemctl stop gorunsum.service 
+  459  systemctl start gorunsum.service 
+  460  locate certbot
+  461  locate certbot-auto
+  462  cd /home
+  463  ls -la
+  464  certbot-auto  renew
+  465  ./certbot-auto renew
+  466  crontab -e
+  467  nano cli.ini
+  468  nano acme
+  469  nginx -s reload
+  470  cat ttserg_devops_srwx_net.html 
+  471  cat /etc/cron.d/nan
+  472  nano /var/spool/cron/crontabs/certs 
+  473  nano /var/spool/cron/crontabs/root 
+  474  nano /srv/www/diff.php
+  475  nano /srv/nginx/ttserg_devops_srwx_net.html 
+  476  nginx -t
+  477  cat -n /srv/nginx/ttserg_devops_srwx_net.html 
+  478  cat -n /srv/nginx/ttserg_devops_srwx_net.html | grep .php
+  479  nano /srv/www/diff.php
+  480  nano /srv/nginx/ttserg_devops_srwx_net.html 
+  481  nginx -t
+  482  nano /srv/nginx/ttserg_devops_srwx_net.html 
+  483  nginx -t
+  484  nano /srv/nginx/ttserg_devops_srwx_net.html 
+  485  nginx -t
+  486  nano /srv/nginx/ttserg_devops_srwx_net.html 
+  487  nginx -t
+  488  cat -n /srv/nginx/ttserg_devops_srwx_net.html
+  489  nano /srv/nginx/ttserg_devops_srwx_net.html 
+  490  nginx -t
+  491  nginx -s reload
+  492  nano /srv/nginx/ttserg_devops_srwx_net.html 
+  493  nginx -t
+  494  nano /srv/nginx/ttserg_devops_srwx_net.html 
+  495  nginx -t
+  496  nano /srv/nginx/ttserg_devops_srwx_net.html 
+  497  nginx -t
+  498  nginx -s reload
+  499  nano /srv/nginx/ttserg_devops_srwx_net.html 
+  500  nginx -s reload
+  501  nano /srv/nginx/ttserg_devops_srwx_net.html 
+  502  nginx -s reload
+  503  nano /srv/nginx/ttserg_devops_srwx_net.html 
+  504  nginx -s reload
+  505  cat -n etc/nginx/sites-enabled/ttserg_devops_srwx_net
+  506  cat -n /etc/nginx/sites-enabled/ttserg_devops_srwx_net
+  507  cat -n /etc/nginx/sites-enabled/ttserg_devops_srwx_net.html 
+  508  nginx -s reload
+  509  nano /srv/nginx/ttserg_devops_srwx_net.html 
+  510  nginx -s reload
+  511  nano /srv/nginx/ttserg_devops_srwx_net.html 
+  512  nginx -s reload
+  513  cat -n /etc/nginx/sites-enabled/ttserg_devops_srwx_net.html 
+  514  nginx -s reload
+  515  cd /etc/nginx/sites-enabled/
+  516  nginx -s reload
+  517  mv diff.php /srv/phpapi
+  518  nginx -s reload
+  519  systemctl restart php-fpm
+  520  systemctl restart php7.0-fpm
+  521  hostname -f
+  522  cd /srv/
+  523  ls
+  524  cd nginx/
+  525  ls
+  526  cd ..
+  527  cd www
+  528  ls
+  529  nano index.html
+  530  ls -la
+  531  nano /var/www/html/index.html
+  532  nginx -s reload
+  533  systemctl nginx reload
+  534  systemctl restart nginx
+  535  nano /srv/nginx/ttserg_devops_srwx_net.html 
+  536  nano /etc/nginx/sites-enabled/ttserg.devops.srwx.net.conf 
+  537  nginx -s reload
+  538  nano /etc/nginx/sites-enabled/ttserg.devops.srwx.net.conf 
+  539  nginx -s reload
+  540  nano /etc/nginx/sites-enabled/ttserg.devops.srwx.net.conf 
+  541  nginx -s reload
+  542  nano index.html 
+  543  nginx -s reload
+  544  go
+  545  go version
+  546  nano /etc/nginx/sites-enabled/ttserg.devops.srwx.net.conf 
+  547  nginx -s reload
+  548  nano /etc/nginx/sites-enabled/ttserg.devops.srwx.net.conf 
+  549  nginx -s reload
+  550  curl -D - -s https://ttserg.devops.srwx.net/?a=2&b=3
+  551  curl -D - -s 'https://ttserg.devops.srwx.net/?a=2&b=3'
+  552  nano /etc/nginx/sites-enabled/ttserg.devops.srwx.net.conf 
+  553  nginx -s reload
+  554  curl -D - -s 'https://ttserg.devops.srwx.net/?a=2&b=3'
+  555  curl -D - -s 'https://ttserg.devops.srwx.net/api/sum/?a=2&b=3'
+  556  nano /etc/nginx/sites-enabled/ttserg.devops.srwx.net.conf 
+  557  nginx -s reload
+  558  curl -D - -s 'https://ttserg.devops.srwx.net/api/sum/?a=2&b=3'
+  559  curl -D - -s 'https://ttserg.devops.srwx.net/api/diff/?a=2&b=3'
+  560  nano /etc/nginx/sites-enabled/ttserg.devops.srwx.net.conf 
+  561  nginx -s reload
+  562  nano /etc/nginx/sites-enabled/ttserg.devops.srwx.net.conf 
+  563  nginx -s reload
+  564  cat -n /etc/nginx/sites-enabled/ttserg.devops.srwx.net.conf 
+  565  nano /etc/nginx/sites-enabled/ttserg.devops.srwx.net.conf 
+  566  nginx -s reload
+  567  curl -D - -s 'https://ttserg.devops.srwx.net/api/diff/?a=2&b=3'
+  568  nano diff.php
+  569  curl -D - -s 'https://ttserg.devops.srwx.net/api/diff/?a=2&b=3'
+  570  nano diff.php
+  571  curl -D - -s 'https://ttserg.devops.srwx.net/api/diff/?a=2&b=3'
+  572  sudo -l
+  573  crontab -l
+  574  random
+  575  $RANDOM
+  576  crontab -l
+  577  letsencrypt
+  578  cd /
+  579  letsencrypt
+  580  letsencrypt-auto
+  581  locate letsencrypt
+  582  letsencrypt --help
+  583  letsencrypt renew
+  584  history | grep lets
+  585  exit
+  586  history | grep lets
+  587  exit
+  588  history | grep lets
+  589  letsencrypt certonly --webroot -w /srv/acme/ -d ttserg.devops.srwx.net
+  590  letsencrypt renew --webroot -w /srv/acme/ -d ttserg.devops.srwx.net
+  591  letsencrypt
+  592  letsencrypt help
+  593  letsencrypt renew help
+  594  letsencrypt renew --help
+  595  letsencrypt renew --webroot -w /srv/acme/ -d ttserg.devops.srwx.net
+  596  letsencrypt certonly --webroot -w /srv/acme/ -d ttserg.devops.srwx.net
+  597  letsencrypt renew
+  598  letsencrypt renew && systemctl restart nginx
+  599  find / -iname letsencrypt
+  600  crontab -e
+  601  cat /var/spool/cron/crontabs/root 
+  602  letsencrypt 
+  603  letsencrypt dfd
+  604  letsencrypt --help
+  605  letsencrypt version
+  606  letsencrypt --version
+  607  apt update
+  608  apt list --upgradable 
+  609  history > /srv/hist.txt
